@@ -89,7 +89,7 @@ body
 
 .pic:hover {
     transform: scale(1.06);
-    box-shadow: 0 3px 5px 0 rgba(115, 235, 143, 0.398), 0 4px 16px 0 rgba(255, 255, 255, 0.65);
+    box-shadow: 0 3px 5px 0 rgba(115, 235, 143, 0.398), 0 4px 16px 0 rgba(255, 255, 254, 0.66);
 }
 
 .foot
